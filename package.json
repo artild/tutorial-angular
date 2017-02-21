@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "typescript": "^2.1.6"
+  },
+  "scripts": {
+    "build": "tsc"
   }
 }
